@@ -7,3 +7,7 @@ Luau Syntax Analysis Toolkit Library in C
 - Code Minifier
 - Code Beautifier
 - Code Optimizer
+## Version History
+- (CURRENT) Adam: Included a full Luau lexer
+## Tool Version History
+- Lexer/Token Generator: 0.1.0
